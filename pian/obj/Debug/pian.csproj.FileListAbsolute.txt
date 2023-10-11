@@ -1,0 +1,7 @@
+D:\инфа\скорогудаева\pian\pian\bin\Debug\pian.exe.config
+D:\инфа\скорогудаева\pian\pian\bin\Debug\pian.exe
+D:\инфа\скорогудаева\pian\pian\bin\Debug\pian.pdb
+D:\инфа\скорогудаева\pian\pian\obj\Debug\pian.csproj.AssemblyReference.cache
+D:\инфа\скорогудаева\pian\pian\obj\Debug\pian.csproj.CoreCompileInputs.cache
+D:\инфа\скорогудаева\pian\pian\obj\Debug\pian.exe
+D:\инфа\скорогудаева\pian\pian\obj\Debug\pian.pdb
